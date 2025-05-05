@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HELP.md
 .gradle
 build/
@@ -35,3 +36,13 @@ out/
 
 ### VS Code ###
 .vscode/
+=======
+.idea
+*.iml
+*.pyc
+__pycache__/
+
+build/
+dist/
+*.egg-info/
+>>>>>>> 242b7f5c6a7e3af8f6f2dc0313463971dc39a0a5
